@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 
 namespace ColorPicker.Controllers;
-
+//FMI - Controller - Contains classe with public methods displayed as endpoints
 [ApiController]
 [Route("[controller]")]
 public class WeatherForecastController : ControllerBase
